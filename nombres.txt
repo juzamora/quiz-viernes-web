@@ -22,6 +22,7 @@ Instrucciones:
    ------------ INSERTEN SUS NOMBRES EN FORMA DE LISTA ------------
 
 Juan David Zamorano Zapata
+David Mesa Muñoz
 Juan Diego Carmona Villegas
 Juan Pablo Arango Rotavista
 Alejandro lopez castano
