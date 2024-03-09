@@ -25,6 +25,7 @@ Juan David Zamorano Zapata
 David Mesa Muñoz
 Juan Diego Carmona Villegas
 Juan Pablo Arango Rotavista
+Ivan Andres Henao Yepes 
 Alejandro lopez castano
 Kibson Jafeth Junior Mosquera Perea
 Felipe leon
