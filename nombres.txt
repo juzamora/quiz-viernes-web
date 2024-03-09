@@ -22,6 +22,8 @@ Instrucciones:
    ------------ INSERTEN SUS NOMBRES EN FORMA DE LISTA ------------
 
 Juan David Zamorano Zapata
+ feature/laura-rico
+Laura alvarez 
 David Mesa Muñoz
 Juan Diego Carmona Villegas
 Juan Pablo Arango Rotavista
